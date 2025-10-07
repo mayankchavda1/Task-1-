@@ -14,7 +14,7 @@ Step 4 : After all this saving the command output in a file :  nmap -sS 192.168.
 
 
 
-# After i will scan network with Wireshark . 
+# After that i  will scan network with Wireshark . 
 
 In wireshark i have found one open port which also show services & version running on that port.
 
